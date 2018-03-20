@@ -1,13 +1,8 @@
 /* JF Flat */
 /* Icons Font */
-@import url("fontawesome.css");
 @font-face {
     font-family: "Flat";
-    src: url('../font/JF-Flat-regular.eot');
-    src: url('../font/JF-Flat-regular.eot?#iefix') format('embedded-opentype'),
-    url('../font/JF-Flat-regular.svg#JF Flat Regular') format('svg'),
-    url('../font/JF-Flat-regular.woff') format('woff'),
-    url('../font/JF-Flat-regular.ttf') format('truetype');
+    url('https://rawgit.com/elsawah-work/Landing-page/master/font/JF-Flat-regular.woff') format('woff'),
     font-weight: normal;
     font-style: normal;
 }
