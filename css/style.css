@@ -17,7 +17,7 @@ html {
 
 body {
     font-size: 1.6rem;
-    font-family: flat, Helvetica, tahoma, arial, sans-serif;
+    font-family: 'Changa', sans-serif;
     color: #1d2024;
     background-color: #ffffff;
     direction: rtl;
@@ -131,14 +131,12 @@ Slider
 }
 
 .cd-slider > li h2 {
-    font-family: flat, Helvetica, tahoma, arial, sans-serif;
     font-size: 2.4rem;
     color: #3F3F40;
 
 }
 
 .cd-slider > li p {
-    font-family: flat, Helvetica, tahoma, arial, sans-serif;
     font-size: 1.4rem;
     color: #3F3F40;
     line-height: 1.4;
